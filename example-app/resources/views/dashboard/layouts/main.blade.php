@@ -42,7 +42,7 @@
               <th scope="col">Id Cafe</th>
               <th scope="col">Tanggal</th>
               <th scope="col">Total Transaksi</th>
-              <th scope="col">Aksi program</th>
+              <th scope="col">Aksi</th>
             </tr>
           </thead>
           @foreach ($data as $data)
